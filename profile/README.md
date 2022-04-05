@@ -1,4 +1,4 @@
-![Welcome Image](profile/WelcomeImage2.jpg)
+![Welcome Image](profile/WelcomeImage3.jpg)
 
 # Welcome
 
