@@ -11,11 +11,9 @@ In CHAOSS, we build metrics, software, and programs aimed at helping people bett
 
 Joining any open source project can be a bit overwhelming. In CHAOSS, there are a few key things to know about the project that might help you find your way: 
 
-- First, we develop metrics. The metrics are developed in five different working groups that focus on different things like diversity, equity, and inclusion within an open source project, the risks associated with an open source project, and the evolution that projects might go through. 
-
-- Second, we develop software. The software is developed in two different groups - GrimoireLab and Augur. Both GrimoireLab and Augur are open source software tools that help display the CHAOSS metrics, 
-
-- Third, we develop programs. The programs include our DEI Event Badging Program and our Metrics Model program. Both of these programs consider how we can bring together a select set of metrics and help people interact and use the CHAOSS metrics in practice. 
+1) We develop metrics. The metrics are developed in five different working groups that focus on different things like diversity, equity, and inclusion within an open source project, the risks associated with an open source project, and the evolution that projects might go through. 
+2) We develop software. The software is developed in two different groups - GrimoireLab and Augur. Both GrimoireLab and Augur are open source software tools that help display the CHAOSS metrics. 
+3) We develop programs. The programs include our DEI Event Badging Program and our Metrics Model program. Both of these programs consider how we can bring together a select set of metrics and help people interact and use the CHAOSS metrics in practice. 
 
 # Getting Started 
 
