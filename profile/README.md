@@ -1,4 +1,4 @@
-![Welcome Image](profile/Chaoss_Logo_Pantone.jpg)
+![Welcome Image](profile/)
 
 # Welcome
 
