@@ -21,6 +21,6 @@ Does this sound interesting? If it does, join us in building metrics, software, 
 
 1) Join CHAOSS on Slack: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g
 2) Join CHAOSS on our weekly Community Call: Tuesdays at 11am US Central (https://zoom.us/j/4998687533)
-3) Follow us on Twitter (@CHAOSSproj)
+3) Follow us on Twitter (https://twitter.com/CHAOSSproj)
 
 These are three great ways to get started in understanding the CHAOSS community. From here, you can start to explore more parts and really become a key contributor -- helping people gain a better understanding of open source community health. Again, welcome and we hope to see you around. 
