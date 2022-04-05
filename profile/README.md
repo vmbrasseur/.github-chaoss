@@ -1,1 +1,1 @@
-Welcome to CHAOSS
+![Welcome Image](profile/image1.jpg)
