@@ -24,3 +24,5 @@ Does this sound interesting? If it does, join us in building metrics, software, 
 3) Follow us on Twitter (https://twitter.com/CHAOSSproj)
 
 From here, you can start to explore more parts and really become a key contributor -- helping people gain a better understanding of open source community health. Again, welcome and we hope to see you around. 
+
+Image from: https://www.pexels.com/photo/purple-leaf-459301/
