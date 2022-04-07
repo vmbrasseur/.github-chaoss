@@ -1,5 +1,5 @@
 ![Welcome Image](profile/spiderwebs.jpg)
-<font size="3">Image from Elizabeth Barron, CHAOSS Community Manager</font>
+<span style="font-size:4em;">Image from Elizabeth Barron, CHAOSS Community Manager</span>
 
 # Welcome
 
