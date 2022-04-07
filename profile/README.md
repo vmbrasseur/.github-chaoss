@@ -1,4 +1,4 @@
-![Welcome Image](profile/spiderwebs.jpg)
+![Welcome Image](profile/spiderwebsR.jpg)
 Image from Elizabeth Barron, CHAOSS Community Manager
 
 # Welcome
