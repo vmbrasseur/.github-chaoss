@@ -21,9 +21,10 @@ Joining an open source project can be overwhelming. In CHAOSS, there are a few k
 Does this sound interesting? If it does, join us in building metrics, software, or programs (or all three!). To get started, we recommend that you: 
 
 1) Join CHAOSS on Slack: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g 
-2) Join the weekly NEWCOMERS Office Hours Call: **Tuesdays at 9am** US Central (https://zoom.us/j/4998687533)
-3) Join the #newcomers channel on Slack: https://chaoss-workspace.slack.com/archives/C0207C3RETX
-4) Join CHAOSS on our weekly Community Call: Tuesdays at 11am US Central (https://zoom.us/j/4998687533)
-5) Follow us on Twitter (https://twitter.com/CHAOSSproj)
+2) Join the CHAOSS mailing list: https://lists.linuxfoundation.org/mailman/listinfo/chaoss
+3) Join the weekly NEWCOMERS Office Hours Call: **Tuesdays at 9am** US Central (https://zoom.us/j/4998687533)
+4) Join the #newcomers channel on Slack: https://chaoss-workspace.slack.com/archives/C0207C3RETX
+5) Join CHAOSS on our weekly Community Call: Tuesdays at 11am US Central (https://zoom.us/j/4998687533)
+6) Follow us on Twitter (https://twitter.com/CHAOSSproj)
 
 From here, you can start to explore more parts and really become a key contributor -- helping people gain a better understanding of open source community health. Again, welcome and we hope to see you around. 
